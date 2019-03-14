@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg4107"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="p7-socialmedia.svg">
+  <defs
+     id="defs4101">
+    <rect
+       id="token"
+       height="0.10"
+       width="0.10"
+       y="-0.05"
+       x="-0.05" />
+    <rect
+       id="robot"
+       y="-0.25"
+       x="-0.175"
+       height="0.5"
+       width="0.35" />
+    <g
+       id="start-zone">
+      <rect
+         id="rect5205"
+         height="1"
+         width="1"
+         y="-0.5"
+         x="-0.5" />
+    </g>
+    <g
+       id="start-zone-with-robot">
+      <use
+         id="use5208"
+         xlink:href="#start-zone" />
+      <use
+         id="use5210"
+         transform="rotate(135)"
+         xlink:href="#robot" />
+    </g>
+    <g
+       id="start-area">
+      <use
+         id="use5213"
+         transform="translate(0.5 0.5)"
+         xlink:href="#start-zone-with-robot" />
+      <!-- tokens -->
+      <use
+         id="use5215"
+         transform="translate(0.5 1.3)"
+         xlink:href="#token" />
+      <use
+         id="use5217"
+         transform="translate(0.5 1.5)"
+         xlink:href="#token" />
+      <use
+         id="use5219"
+         transform="translate(0.5 1.7)"
+         xlink:href="#token" />
+      <use
+         id="use5221"
+         transform="translate(0.5 1.9)"
+         xlink:href="#token" />
+      <use
+         id="use5223"
+         transform="translate(0.5 2.1)"
+         xlink:href="#token" />
+    </g>
+    <g
+       id="zone">
+      <rect
+         id="rect5226"
+         class="zone"
+         height="1.2"
+         width="1.2"
+         y="-0.6"
+         x="-0.6" />
+    </g>
+    <g
+       id="volcano">
+      <path
+         id="path5229"
+         d="M-1.8 -1.8 v3.6 h3.6 v-3.6 h-3.6 l1.2 1.2 h1.2 v1.2 h-1.2 v-1.2" />
+    </g>
+    <g
+       transform="scale(0.05)"
+       id="dimension-arrow-head">
+      <path
+         id="path5232"
+         class="dimension-arrow-head"
+         d="M0,0 L1,1 L1,-1 L0,0" />
+    </g>
+    <marker
+       markerUnits="userSpaceOnUse"
+       refY="1"
+       refX="0"
+       markerHeight="2"
+       markerWidth="1"
+       orient="auto"
+       id="dimension-arrow-head-start">
+      <use
+         id="use5235"
+         transform="translate(0 1)"
+         xlink:href="#dimension-arrow-head" />
+    </marker>
+    <marker
+       markerUnits="userSpaceOnUse"
+       refY="1"
+       refX="1"
+       markerHeight="2"
+       markerWidth="1"
+       orient="auto"
+       id="dimension-arrow-head-end">
+      <use
+         id="use5238"
+         transform="translate(1 1) scale(-1 1)"
+         xlink:href="#dimension-arrow-head" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="287.53454"
+     inkscape:cy="328.65396"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-text-baseline="true"
+     showguides="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4670" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-149)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:Oswald;-inkscape-font-specification:Oswald;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.9375"
+       y="163.38541"
+       id="text5571"><tspan
+         sodipodi:role="line"
+         id="tspan5569"
+         x="7.9375"
+         y="163.38541"
+         style="font-size:11.28888893px;text-align:start;text-anchor:start;stroke-width:0.26458332px">SOCIAL MEDIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.9375"
+       y="180.58333"
+       id="text5197"><tspan
+         sodipodi:role="line"
+         x="7.9375"
+         y="180.58333"
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan5199">Details of interacting with us on social media during/after the event</tspan></text>
+  </g>
+  <style
+     id="style5201"
+     type="text/css"><![CDATA[
+      .arena-wall {
+        fill: none;
+        stroke: #555;
+        stroke-width: .02;
+      }
+
+      #token {
+        stroke: black;
+        stroke-width: 0.01;
+        fill: silver;
+      }
+
+      #robot {
+        fill: green;
+        stroke: black;
+        stroke-width: 0.02;
+      }
+
+      #volcano {
+        fill: #ddd;
+      }
+
+      .zone {
+        stroke: #333;
+        stroke-width: 0.02;
+        /*stroke-dasharray: 0.14142135, 0.14142135;*/
+        stroke-dasharray: 0.08 0.08;
+        /*stroke-dashoffset: -50%;*/
+        fill: none;
+      }
+
+      #start-zone {
+        stroke: #bbb;
+        stroke-width: 0.02;
+        fill: #ffd;
+      }
+
+      .dimension line {
+        stroke: #666;
+        stroke-width: 0.005;
+        marker-start: url(#dimension-arrow-head-start);
+        marker-end: url(#dimension-arrow-head-end);
+      }
+
+      .dimension text {
+        fill: #666;
+        font-size: 0.175px;
+      }
+      .dimension text.above {
+        text-anchor: middle;
+      }
+      .dimension text.left-rotated {
+        text-anchor: middle;
+        transform: rotate(-90deg);
+      }
+      .dimension text.left {
+        text-anchor: end;
+        dominant-baseline: middle;
+      }
+      .dimension text.right {
+        text-anchor: start;
+        dominant-baseline: middle;
+      }
+
+      .dimension-arrow-head {
+        fill: #666;
+      }
+
+      .dimension-guide {
+        stroke: #666;
+        stroke-width: 0.01;
+        stroke-dasharray: 0.0025 0.04;
+        stroke-linecap: round;
+        fill: none;
+      }
+
+      .legend-label {
+        font-size: 0.2px;
+        text-anchor: start;
+        dominant-baseline: middle;
+      }
+    ]]></style>
+</svg>

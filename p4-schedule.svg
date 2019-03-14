@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg860"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="p4-schedule.svg">
+  <defs
+     id="defs854" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="422.69607"
+     inkscape:cy="252.15122"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1405" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata857">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-149)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:Oswald;-inkscape-font-specification:Oswald;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.9375"
+       y="163.38541"
+       id="text5571"><tspan
+         sodipodi:role="line"
+         id="tspan5569"
+         x="7.9375"
+         y="163.38541"
+         style="font-size:11.28888893px;text-align:start;text-anchor:start;stroke-width:0.26458332px">SCHEDULE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.229167"
+       y="199.10416"
+       id="text3984"><tspan
+         sodipodi:role="line"
+         id="tspan3982"
+         x="13.229167"
+         y="199.10416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px">09:00 - 09:30 Arrival</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="206.15971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3988">09:30 - 09:40 Introduction Briefing</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="213.21527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3990">09:40 - 11:00 Tinker time</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="220.27083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3992">11:00 - 12:00 League Matches</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="227.32639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3994">12:00 - 13:00 Lunch &amp; Tinker Time</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="234.38193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3996">13:00 - 17:30 League Matches</tspan><tspan
+         sodipodi:role="line"
+         x="13.229167"
+         y="241.43748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan3998">17:30	End of day</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="113.77084"
+       y="199.10416"
+       id="text3984-4"><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="199.10416"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan3998-3">09:00 - 09:30 Arrival</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="207.04166"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4065">09:30 - 10:30 Tinker Time</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="214.97916"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4067">10:30 - 12:00 League Matches</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="222.91666"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4069">12:00 - 13:00 Lunch &amp; Tinker Time</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="230.85416"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4071">13:00 - 14:30 League Matches</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="238.79166"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4073">14:40 - 16:55 Heats</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="246.72916"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4075">17:00 - 17:15 Prize Ceremony</tspan><tspan
+         sodipodi:role="line"
+         x="113.77084"
+         y="254.66666"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.64444444px;"
+         id="tspan4077">17:15 - 18:00 Kit return</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.229167"
+       y="188.52083"
+       id="text4081"><tspan
+         sodipodi:role="line"
+         id="tspan4079"
+         x="13.229167"
+         y="188.52083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';text-align:start;text-anchor:start;stroke-width:0.26458332px">SATURDAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="113.77084"
+       y="188.52083"
+       id="text4081-7"><tspan
+         sodipodi:role="line"
+         id="tspan4079-4"
+         x="113.77084"
+         y="188.52083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';text-align:start;text-anchor:start;stroke-width:0.26458332px">SUNDAY</tspan></text>
+  </g>
+</svg>
